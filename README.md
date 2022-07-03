@@ -1,2 +1,2 @@
-# Slicing_Negativevalues
+# Slicing_Negative_values
 Double colon Slicing
